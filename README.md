@@ -9,3 +9,9 @@
 • At least 1 dirty dataset (not Kaggle)
  
 • At least one API used
+
+Topic Agreed upon: Ice Changes on the Great Lakes affected by precipitation & other variables.
+
+
+API helper application = Postman (free to download):
+https://www.getpostman.com/downloads/
