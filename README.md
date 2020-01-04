@@ -10,8 +10,31 @@
  
 • At least one API used
 
-Topic Agreed upon: Ice Changes on the Great Lakes affected by precipitation & other variables.
-
-
 API helper application = Postman (free to download):
 https://www.getpostman.com/downloads/
+
+# Topic
+What: Ice changes
+Where: Great Lakes
+When:
+Other Variables: 
+How: NOAA API
+
+## NOAA API 
+
+Documentation: https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
+get API here: https://www.ncdc.noaa.gov/cdo-web/token
+
+A lot of data is here: https://www.glerl.noaa.gov//data/dashboard/data/
+csv and other formats
+
+ice data: https://www.glerl.noaa.gov/data/dashboard/data/ice/
+
+other water data (precipitation, evaporation, etc): https://www.glerl.noaa.gov/data/dashboard/data/hydroIO/
+
+Storm data: https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/
+(because I found it, we don't have to use it.)
+
+### Lake stats
+https://coastwatch.glerl.noaa.gov/statistic/physical.html
+the 'dirty' dataset (not sure it counts, but the api calls from NOAA may)
