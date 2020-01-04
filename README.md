@@ -7,8 +7,14 @@
  
 • At least one dataset comes from merging different tables/sources (deliverable)
 • At least 1 dirty dataset (not Kaggle)
+• Save data to csv and to sql database
  
 • At least one API used
+
+• 10 minute Presention
+• No PowerPoint, use JupyterNotebook
+
+We'll get 2 extra days to work on this.
 
 API helper application = Postman (free to download):
 https://www.getpostman.com/downloads/
