@@ -11,6 +11,7 @@ numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
 requests = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.7"
