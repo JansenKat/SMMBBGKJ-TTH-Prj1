@@ -14,17 +14,28 @@ BERNIE - What variables to use from NOAA?
     PRCP - precipitation 
     
     PTA  - storm total accumulation(storm total precipita...
-    	
-What stations to use from NOAA?
+    
+    Define/understand variables. How should we use/compare them?
+    
 
-Should we include Lake St. Clair?
+What stations to use from NOAA?
+MEMET - coordinates (as listed below)
+KAT - pull stations by state to be filtered by coordinates later
+KAT - try to understand station IDs.
+
+What time range should we focus on?
+
+DONE - Should we include Lake St. Clair?
     it's in the ice coverage but not in the stats.
     EXCLUDE
+
 How to identify the separate lakes in NOAA?
+    Use MEMET's boxes to separate lakes
 
 What plots to create?
 
 Who is presenting?
+
 
 ## Planning
 1 notebook per data source to gather, clean, and export to a new clean csv
@@ -42,11 +53,12 @@ Push your branch to github often.
 # Tasks
 
 ### Lake Ice Notebook
-SAHAR - Convert Date column to DateTime
+DONE SAHAR - Convert Date column to DateTime
     test filtering time ranged on date column
-Make Date Column index?
-Remove basin file from notbeook
-Export to csv in clean_data directory
+DONE KAT - Make Date Column index?
+DONE KAT - Remove basin file from notbeook
+KAT - understand date distribution in df
+KAT - Export to csv in clean_data directory
 
 ### Lake Stats Notebook
 DONE KAT - Remove imperial unit rows
@@ -58,6 +70,7 @@ DONE KAT - Export to csv in clean_data directory
 ### NOAA Notebook
 Get data from NOAA
 SAHAR - Convert min and max dates to DateTime
+SAHAR - filter min and max dates for stations and variables (like Berien's list) based on max and min dates from lake_ice data
 Clean data
     Remove duplicate names from stations_df
     Filter stations by elevation, latitude and longitude per lake based on df_lakes in lake_stats notebook
