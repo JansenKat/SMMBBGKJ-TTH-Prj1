@@ -35,11 +35,11 @@ Remove basin file from notbeook
 Export to csv in clean_data directory
 
 ### Lake Stats Notebook
-KAT - Remove imperial unit rows
-KAT - Remove Totals column
+DONE KAT - Remove imperial unit rows
+DONE KAT - Remove Totals column
 MEMET - Find and add coordinates of boxes around each individual lake
         add in new columns for each corner
-Export to csv in clean_data directory
+DONE KAT - Export to csv in clean_data directory
 
 ### NOAA Notebook
 Get data from NOAA
