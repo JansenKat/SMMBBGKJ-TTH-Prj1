@@ -78,3 +78,5 @@ Export to csv(s) in clean_data directory
 
 helpful api from David: https://geo.fcc.gov/api/census/
 
+
+Export to sql?!?
