@@ -1,6 +1,20 @@
 ## Decisions
 
 BERNIE - What variables to use from NOAA?
+    WESD - water equivalent of snow on the ground
+    WT09 - blowing or drifting snow
+    WESF - water equivalent of snowfall
+    SNWD - snow depth
+    NTP  - storm total precipitation
+    DPR  - instantaneous precipitation rate
+    WT04 - ice pellets, sleet, snow pellets, or small hail"
+    WT01 - fog, ice fog, or freezing fog (may include hea..
+    WT10 - tornado, waterspout, or funnel cloud"
+    THIC - thickness of ice on water
+    PRCP - precipitation 
+    
+    PTA  - storm total accumulation(storm total precipita...
+
 What stations to use from NOAA?
 
 Should we include Lake St. Clair?
