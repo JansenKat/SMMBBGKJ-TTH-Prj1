@@ -10,10 +10,8 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
-spyder = "*"
 requests = "*"
-lxml-html = "*"
 lxml = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
