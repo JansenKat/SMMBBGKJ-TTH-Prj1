@@ -1,0 +1,8 @@
+id,mindate,maxdate,name,datacoverage
+DT32,1763-01-01,2019-12-01,Number days with minimum temperature less than or equal to 32.0 F,1.0
+DX32,1763-01-01,2019-12-01,Number days with maximum temperature < 32 F.,1.0
+PRCP,1781-01-01,2020-01-08,Precipitation,1.0
+SNWD,1857-01-18,2020-01-08,Snow depth,1.0
+THIC,1926-03-17,2019-11-30,Thickness of ice on water,1.0
+TMIN,1763-01-01,2020-01-08,Minimum temperature,1.0
+WDMV,1859-10-01,2019-12-31,Total wind movement,1.0
