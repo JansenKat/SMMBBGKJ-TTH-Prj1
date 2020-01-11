@@ -1,0 +1,79 @@
+,mindate,maxdate,name,datacoverage,id
+235,1763-01-01,2019-12-01,Cooling Degree Days Season to Date,1.0,CDSD
+236,1763-01-01,2019-12-01,Cooling Degree Days,1.0,CLDD
+239,1832-05-11,2020-01-08,Number of days included in the multiday precipitation total (MDPR),1.0,DAPR
+240,1883-01-10,2019-01-14,Number of days included in the multiday snow fall total (MDSF) ,1.0,DASF
+241,1863-05-04,2020-01-02,Number of days included in the multiday minimum temperature (MDTN),1.0,DATN
+242,1863-05-04,2020-01-01,Number of days included in the multiday maximum temperature (MDTX),1.0,DATX
+363,1781-01-01,2019-12-01,Number of days with greater than or equal to 0.1 inch of precipitation,1.0,DP01
+364,1781-01-01,2017-02-01,Number of days with greater than or equal to 0.5 inch of precipitation,1.0,DP05
+365,1781-01-01,2019-12-01,Number of days with greater than or equal to 1.0 inch of precipitation,1.0,DP10
+371,1863-12-01,2019-12-01,Number days with snow depth > 1 inch(25.4mm) for the period.,1.0,DSND
+372,1840-05-01,2019-12-01,Number days with snow depth > 1 inch.,1.0,DSNW
+374,1763-01-01,2019-12-01,Number days with minimum temperature less than or equal to 0.0 F,1.0,DT00
+375,1763-01-01,2019-12-01,Number days with minimum temperature less than or equal to 32.0 F,1.0,DT32
+381,1832-05-11,2020-01-02,Number of days with non-zero precipitation included in multiday precipitation total (MDPR),1.0,DWPR
+382,1763-01-01,2019-12-01,Number days with maximum temperature < 32 F.,1.0,DX32
+384,1763-01-01,2019-12-01,Number days with maximum temperature > 70 F (21.1C),1.0,DX70
+385,1763-01-01,2019-12-01,Number days with maximum temperature > 90 F (32.2C),1.0,DX90
+387,1763-01-01,2019-12-01,Extreme minimum temperature for the period.,1.0,EMNT
+388,1863-12-01,2019-12-01,Extreme maximum snow depth for the period.,1.0,EMSD
+389,1840-05-01,2019-12-01,Extreme maximum snowfall for the period.,1.0,EMSN
+390,1781-01-01,2019-12-01,Extreme maximum precipitation for the period.,1.0,EMXP
+391,1763-01-01,2019-12-01,Extreme maximum temperature for the period.,1.0,EMXT
+392,1893-01-09,2019-12-31,Evaporation of water from evaporation pan,1.0,EVAP
+398,1763-01-01,2019-01-01,First freeze <= to 32F/0C of the year.,1.0,FZF0
+399,1765-01-01,2019-01-01,First freeze <= 28F/-2.2C of the year,1.0,FZF1
+400,1767-01-01,2019-01-01,First freeze <= 24F/-4.4C of the year,1.0,FZF2
+401,1774-01-01,2019-01-01,First freeze <= 20F/-6.7C of the year,1.0,FZF3
+402,1774-01-01,2019-01-01,First freeze <= 16F/-8.9C of the year,1.0,FZF4
+403,1763-01-01,2019-01-01,Last freeze <= 32F/0C of the year,1.0,FZF5
+404,1763-01-01,2019-01-01,Last freeze <= 28F/-2.2C of the year,1.0,FZF6
+405,1763-01-01,2019-01-01,Last freeze <= 24F/-4.4C of the year,1.0,FZF7
+406,1766-01-01,2019-01-01,Last freeze <= 20F/-6.7C of the year,1.0,FZF8
+407,1767-01-01,2019-01-01,Last freeze <= 16F/-8.9C of the year,1.0,FZF9
+410,1763-07-01,2019-12-01,Heating Degree Days Season to Date,1.0,HDSD
+578,1781-01-04,2020-01-08,Precipitation,1.0,HPCP
+579,1840-10-24,2020-01-08,Highest snowfall,,HSNW
+580,1763-01-01,2019-12-01,Heating degree days,1.0,HTDD
+581,1763-01-01,2020-01-08,Highest minimum temperature,,HTMN
+582,1763-01-01,2020-01-08,Highest maximum temperature,,HTMX
+849,1763-01-01,2020-01-07,Lowest minimum temperature,,LTMN
+850,1763-01-01,2020-01-08,Lowest maximum temperature,,LTMX
+978,1832-05-11,2020-01-08,"Multiday precipitation total (use with DAPR and DWPR, if available)",1.0,MDPR
+979,1859-12-29,2019-01-14,Multiday snowfall total ,1.0,MDSF
+980,1863-05-04,2020-01-02,Multiday minimum temperature (use with DATN),1.0,MDTN
+981,1863-05-04,2020-01-01,Multiday maximum temperature (use with DATX),1.0,MDTX
+1065,1964-01-01,2019-11-01,Monthly mean minimum soil temperature (degrees F),1.0,MN01
+1129,1950-11-28,2019-12-31,Daily minimum temperature of water in an evaporation pan,1.0,MNPN
+1208,1964-01-01,2019-11-01,Monthly mean maximum soil temperature (degrees F),1.0,MX01
+1273,1921-12-09,2019-12-31,Daily maximum temperature of water in an evaporation pan,1.0,MXPN
+1338,1948-01-01,2020-01-07,Peak gust time,1.0,PGTM
+1339,1781-01-01,2020-01-08,Precipitation,1.0,PRCP
+1340,1965-01-01,2020-01-06,Daily percent of possible sunshine for the period,1.0,PSUN
+1374,1840-05-01,2020-01-08,Snowfall,1.0,SNOW
+1375,1857-01-18,2020-01-08,Snow depth,1.0,SNWD
+1468,1763-01-01,2020-01-08,Average Temperature.,1.0,TAVG
+1470,1926-03-17,2019-11-30,Thickness of ice on water,1.0,THIC
+1471,1763-01-01,2020-01-08,Maximum temperature,1.0,TMAX
+1472,1763-01-01,2020-01-08,Minimum temperature,1.0,TMIN
+1473,1876-11-27,2020-01-08,Temperature at the time of observation,1.0,TOBS
+1479,1965-01-01,2020-01-06,Total sunshine for the period,1.0,TSUN
+1488,1948-01-01,2020-01-07,Direction of peak wind gust,1.0,WDFG
+1491,1859-10-01,2019-12-31,Total wind movement,1.0,WDMV
+1492,1952-07-01,2020-01-08,Water equivalent of snow on the ground,1.0,WESD
+1497,1948-01-01,2020-01-07,Peak gust wind speed,1.0,WSFG
+1498,1965-01-01,2020-01-07,Highest instantaneous wind speed,1.0,WSFI
+1500,1851-05-19,2020-01-07,"Fog, ice fog, or freezing fog (may include heavy fog)",1.0,WT01
+1501,1900-12-23,2020-01-07,Heavy fog or heaving freezing fog (not always distinguished from fog),1.0,WT02
+1502,1851-04-02,2020-01-07,Thunder,1.0,WT03
+1503,1852-02-20,2020-01-06,"Ice pellets, sleet, snow pellets, or small hail"" ",1.0,WT04
+1504,1851-04-13,2020-01-05,Hail (may include small hail),1.0,WT05
+1505,1890-03-28,2020-01-06,Glaze or rime ,1.0,WT06
+1506,1891-12-21,2019-12-31,"Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction",1.0,WT07
+1507,1851-04-11,2020-01-07,Smoke or haze ,1.0,WT08
+1508,1852-02-12,2020-01-07,Blowing or drifting snow,1.0,WT09
+1509,1886-03-20,2019-12-09,"Tornado, waterspout, or funnel cloud"" ",1.0,WT10
+1510,1851-04-03,2019-12-31,High or damaging winds,1.0,WT11
+1515,1851-04-01,2019-04-30,"Rain (may include freezing rain, drizzle, and freezing drizzle)"" ",1.0,WT16
+1517,1851-04-13,2019-04-13,"Snow, snow pellets, snow grains, or ice crystals",1.0,WT18
