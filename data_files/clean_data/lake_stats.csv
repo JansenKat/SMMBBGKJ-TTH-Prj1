@@ -1,6 +1,6 @@
-0,Elevationa (m),Length (km),Breadth (km),Average Deptha (m),Maximum Deptha (m),Volumea (km3),Water Area (km2),Land Drainage Areab (km2),Total Area (km2),Shoreline Lengthc (km),Retention Time (yr),Outlet Outlet
-Superior,183,563,257,147,406,12100,82100,127700,209800,4385,191,St. Marys River
-Michigan,176,494,190,85,282,4920,57800,118000,175800,2633,99,Straits of Mackinac
-Huron,176,332,245,59,229,3540,59600,134100,193700,6157,22,St. Clair River
-Erie,173,388,92,19,64,484,25700,78000,103700,1402,2.6,Niagara River/ Welland Canal
-Ontario,74,311,85,86,244,1640,18960,64030,82990,1146,6,St. Lawrence River
+,Elevationa (m),Length (km),Breadth (km),Average Deptha (m),Maximum Deptha (m),Volumea (km3),Water Area (km2),Land Drainage Areab (km2),Total Area (km2),Shoreline Lengthc (km),Retention Time (yr),Outlet Outlet,left-up,lef-down,right-down,right-up
+Superior,183,563,257,147,406,12100,82100,127700,209800,4385,191,St. Marys River,"(-92.24770595, 48.99057766)","(-92.16469881, 46.43517183)","(-84.32534402, 46.47459248)","(-84.4071318, 48.93016539)"
+Michigan,176,494,190,85,282,4920,57800,118000,175800,2633,99,Straits of Mackinac,"(-88.20521498, 46.22897845)","(-88.19972181, 41.60750601)","(-85.00819349, 41.64217639)","(-85.00251263, 46.2305618)"
+Huron,176,332,245,59,229,3540,59600,134100,193700,6157,22,St. Clair River,"(-84.763874, 46.40526359)","(-84.80171647, 43.07614816)","(-79.87373863, 43.06979478)","(-79.93355375, 46.09853892)"
+Erie,173,388,92,19,64,484,25700,78000,103700,1402,2.6,Niagara River/ Welland Canal,"(-83.43929641, 42.80865899)","(-83.4881252, 41.34261326)","(-78.92269619, -78.92269619)","(-78.83968905, 42.89423587)"
+Ontario,74,311,85,86,244,1640,18960,64030,82990,1146,6,St. Lawrence River,"(-79.75643777, 44.18597098)","(-79.77230758, 43.20266513)","(-76.18466177, 43.22835316)","(-76.2444769, 44.19877154)"
