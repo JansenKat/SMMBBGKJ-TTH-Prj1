@@ -24,8 +24,10 @@ DONE KAT - pull stations by state to be filtered by coordinates later
 NOPE KAT - try to understand station IDs.
 
 What time range should we focus on?
+dec 92 = apr 97
 
 Should we only look at specific months of the year?
+mnths with ice coverage
 
 NOPE DONE - Should we include Lake St. Clair?
     it's in the ice coverage but not in the stats.
@@ -34,8 +36,11 @@ How to identify the separate lakes in NOAA?
     Use MEMET's boxes to separate lakes
 
 What plots to create?
+max ice coverage / water area or shoreline
+
 
 Who is presenting?
+
 
 
 ## Planning
@@ -81,12 +86,12 @@ DONE KAT - Make Date Column index?
 DONE KAT - Remove basin file from notbeook
 DONE KAT - understand date distribution in df
 Filter by chosen date range
-Export to csv in clean_data directory
+DONE KAT - Export to csv in clean_data directory
 
 ### Lake Stats Notebook
 DONE KAT - Remove imperial unit rows
 DONE KAT - Remove Totals column
-MEMET - Find and add coordinates of boxes around each individual lake
+DONE MEMET - Find and add coordinates of boxes around each individual lake
         add in new columns for each corner
         in format (lat,long)
 DONE KAT - Export to csv in clean_data directory
@@ -113,9 +118,10 @@ DONE
 ### Data 
 KAT - pull data from API by state and year
         save in batches of 1000
-    filter to only variables in variables_to_use.csv
-    filter to only stations in stations_to_use.csv
-    filter to only dates in date range
+DONE    saved per lake
+DONE KAT - filter to only variables in variables_to_use.csv
+filter to only stations in stations_to_use.csv
+DONE KAT - filter to only dates in date range
     export to sql
     
 ### Export to sql?!?
