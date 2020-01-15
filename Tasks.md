@@ -52,7 +52,11 @@ lake_ice.ipynb = ice_coverage.csv
 data.ipynb = data.sql
 
 1 notebook for analysis
-2-3 plots
+## 2-3 plots
+1. Surface area vs. Max coverage
+2. Monthly % coverage scaled by DX32 (average be weighted)
+3. Monthly DT32 scaled by DX32
+4. Monthly DT32 scaled by number of days with ice. 
 all notes for presentation
 presentation.ipynb = charts and anything needed for Presentation
 
