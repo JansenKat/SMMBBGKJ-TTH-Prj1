@@ -14,21 +14,21 @@
 • 10 minute Presention
 • No PowerPoint, use JupyterNotebook
 
-We'll get 2 extra days to work on this.
-
 API helper application = Postman (free to download):
 https://www.getpostman.com/downloads/
 
 # Topic
 What: Ice changes
 Where: Great Lakes
-When:
-Other Variables: 
+When: Dec 1992 - Apr 1997
+Other Variables: DT32, DX32
 How: NOAA API
 
 ## NOAA API 
 
 Documentation: https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
+Datasets and their documentation/samples (new) https://www.ncdc.noaa.gov/cdo-web/datasets
+Data Flags to include: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
 get API here: https://www.ncdc.noaa.gov/cdo-web/token
 
 A lot of data is here: https://www.glerl.noaa.gov//data/dashboard/data/
