@@ -1,3 +1,14 @@
+
+
+![Great Lakes](https://commons.wikimedia.org/wiki/File:Great_Lakes_from_space_crop_labeled.jpg#/media/File:Great_Lakes_from_space_crop_labeled.jpg)
+
+
+
+
+
+
+
+
 # SMMBBGKJ-TTH-Prj1
 
 6.1 PROJECT REQUIREMENTS
@@ -20,7 +31,7 @@ https://www.getpostman.com/downloads/
 # Topic
 What: Ice changes
 Where: Great Lakes
-When: Dec 1992 - Apr 1997
+When: Jan 1995 - May 1999
 Other Variables: DT32, DX32
 How: NOAA API
 
