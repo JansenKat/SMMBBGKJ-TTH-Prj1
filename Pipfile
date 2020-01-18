@@ -12,6 +12,8 @@ ipykernel = "*"
 matplotlib = "*"
 requests = "*"
 lxml = "*"
+pymysql = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
