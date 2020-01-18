@@ -54,6 +54,8 @@ the 'dirty' dataset (not sure it counts, but the api calls from NOAA may)
 5. stations.ipynb = Where we identified the stations in bordering states to each great lake. We attempted to filter them further based on coordinates manually added to the lake_stats csv, but ultimately failed. Each lake has it's own csv of stations in bordering states.
 6. data.ipynb = Makes the calls to the API based on identified in lake_ice.ipynb, datapoints from datatypes.ipynb, datasets based on the chosen datapoints manually entered. The results are 1 csv per lake, for all datapoints listed, for all date ranges from lake_ice.ipynb. This includes some minor error handling so the api calls will continue if an error is raised. Due to throttling of the API, each call is capped at 1000.
 
+7. SQL.ipynb = exports the cleaned ice_coverage.csv (found in /data_files/clean_data) to a local mysql database
+
 #### Chart Notebooks
 1. SAvsMaxCov.ipynb = Surface Area vs Max % Ice Coverage per lake. 
 * One would expect to see a decreasing trend: low Surface Area, high Ice Coverage. However this does not appear to be the trend. This would be a better chart with more lakes plotted.
