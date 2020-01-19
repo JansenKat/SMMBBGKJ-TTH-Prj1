@@ -23,6 +23,7 @@ https://www.getpostman.com/downloads/
 * When: Dec 1992 - Apr 1997
 * Other Variables: DT32, DX32
 * How: NOAA API
+<img src = "images/GreatLakesIce_large.jpg" width = 700>
 
 ## NOAA API 
 
